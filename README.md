@@ -15,7 +15,7 @@
 ![Plugin running in React Studio](https://raw.githubusercontent.com/automediaAI/RSPlugin-particles/master/screenshot.png)
 
 # Credits
-Logo from [matteobruni](https://particles.matteobruni.it/)
+Logo from [Matteo Bruni](https://particles.matteobruni.it/)
 
 
 
