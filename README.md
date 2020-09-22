@@ -9,7 +9,7 @@
 5. You will see tsparticles component in the Components Menu
 
 # How to use 
-1. Paste the tsParticles config JSON (you can get these from [here](https://particles.matteobruni.it/Samples#parallax))
+1. Paste the Particles config JSON (you can get these from [here](https://particles.matteobruni.it/Samples#parallax))
 2. Change dimensions from React Studio Canvas
 
 ![Plugin running in React Studio](https://raw.githubusercontent.com/automediaAI/RSPlugin-particles/master/screenshot.png)
