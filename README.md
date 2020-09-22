@@ -12,7 +12,7 @@
 1. Paste the tsParticles config JSON (you can get these from [here](https://particles.matteobruni.it/Samples#parallax))
 2. Change dimensions from React Studio Canvas
 
-![Plugin running in React Studio](https://raw.githubusercontent.com/automediaAI/RSPlugin-Lottie/master/screenshot.png)
+![Plugin running in React Studio](https://raw.githubusercontent.com/automediaAI/RSPlugin-particles/master/screenshot.png)
 
 # Credits
 Logo from [matteobruni](https://particles.matteobruni.it/)
